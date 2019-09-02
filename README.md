@@ -1,2 +1,2 @@
 # yandex_coursera
-implemented tasks
+implemented tasks during the online course
